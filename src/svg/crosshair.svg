@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <image x="5.6567" y="5.505" width="22" height="22" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAQRJREFUOI3t1T1Ow0AQBeDPMRJI /DWkBjpEH3KC9FwVjkEuABWCC0QIhwIRlmLHEFlxbBAUIEYaeWy9efu8s7NT6GcFyogXSF0JZRcg SI8xwSnmeOhKGvQgLjHCbvhZH0EbPYgLbMdTI261Poq/ZP/E71YXb/mcrlq8wn68V/GtrfALpMLH OR3JFW9ahTscyo1xj6MW7BxT3Jax8gR7oXrQ8M3wS9xgHOrbsENc/8QeJ7FqwhMOQv1rwx/l3x/j JOKtNdgpZnUHrSteiXN5q8j3xIVcpFW2QKorm/DSAmy29E6oa8PjNzbI3yROckel8Mo3jaaaeIhn XGHWldQ5CZZwnxqmb0IkOggieI5qAAAAAElFTkSuQmCC "/>
+ <g transform="rotate(90)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m16-15c-1.0914 0-2 0.9086-2 2v5c0 1.0914 0.9086 2 2 2s2-0.9086 2-2v-5c0-1.0914-0.9086-2-2-2zm0 1.9199c0.06135 0 0.08008 0.01873 0.08008 0.08008v5c0 0.061351-0.01873 0.080078-0.08008 0.080078s-0.08008-0.018727-0.08008-0.080078v-5c0-0.06135 0.01873-0.08008 0.08008-0.08008z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+  <path d="m16-14.04c0.57638 0 1.0404 0.46402 1.0404 1.0404v5c0 0.57638-0.46401 1.0404-1.0404 1.0404s-1.0404-0.46401-1.0404-1.0404v-5c0-0.57638 0.46402-1.0404 1.0404-1.0404z" color="#000000" fill="#f8ffff" stroke-width="1.9192" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+ </g>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m16 6c-1.0914 0-2 0.9086-2 2v5c0 1.0914 0.9086 2 2 2s2-0.9086 2-2v-5c0-1.0914-0.9086-2-2-2zm0 1.9199c0.06135 0 0.08008 0.018727 0.08008 0.080078v5c0 0.06135-0.01873 0.08008-0.08008 0.08008s-0.08008-0.01873-0.08008-0.08008v-5c0-0.061351 0.01873-0.080078 0.08008-0.080078z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+  <path d="m16 6.9596c0.57638 0 1.0404 0.46401 1.0404 1.0404v5c0 0.57638-0.46401 1.0404-1.0404 1.0404s-1.0404-0.46401-1.0404-1.0404v-5c0-0.57638 0.46402-1.0404 1.0404-1.0404z" color="#000000" fill="#f8ffff" stroke-width="1.9192" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+ </g>
+ <g fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m16 17c-1.0914 0-2 0.9086-2 2v5c0 1.0914 0.9086 2 2 2s2-0.9086 2-2v-5c0-1.0914-0.9086-2-2-2zm0 1.9199c0.06135 0 0.08008 0.01873 0.08008 0.08008v5c0 0.06135-0.01873 0.08008-0.08008 0.08008s-0.08008-0.01873-0.08008-0.08008v-5c0-0.06135 0.01873-0.08008 0.08008-0.08008z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+  <path d="m16 17.96c0.57638 0 1.0404 0.46402 1.0404 1.0404v5c0 0.57638-0.46401 1.0404-1.0404 1.0404s-1.0404-0.46402-1.0404-1.0404v-5c0-0.57638 0.46402-1.0404 1.0404-1.0404z" color="#000000" fill="#f8ffff" stroke-width="1.9192" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+ </g>
+ <g transform="rotate(90)" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+  <path d="m16-26c-1.0914 0-2 0.9086-2 2v5c0 1.0914 0.9086 2 2 2s2-0.9086 2-2v-5c0-1.0914-0.9086-2-2-2zm0 1.9199c0.06135 0 0.08008 0.01873 0.08008 0.08008v5c0 0.06135-0.01873 0.08008-0.08008 0.08008s-0.08008-0.01873-0.08008-0.08008v-5c0-0.06135 0.01873-0.08008 0.08008-0.08008z" color="#000000" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+  <path d="m16-25.04c0.57638 0 1.0404 0.46402 1.0404 1.0404v5c0 0.57638-0.46401 1.0404-1.0404 1.0404s-1.0404-0.46402-1.0404-1.0404v-5c0-0.57638 0.46402-1.0404 1.0404-1.0404z" color="#000000" fill="#f8ffff" stroke-width="1.9192" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+ </g>
+</svg>

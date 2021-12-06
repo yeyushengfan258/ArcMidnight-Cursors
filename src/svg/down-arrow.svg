@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path d="m14.487 9.5c0-0.8137 0.6863-1.5 1.5-1.5s1.5 0.6863 1.5 1.5v7.6348c0 0.8137-0.6863 1.5-1.5 1.5s-1.5-0.6863-1.5-1.5z" color="#000000" fill="#000003" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+ <path d="m16.635 21.269 2.7238-4.29a0.81995 0.876 0 0 0 0.04493-0.882 0.78063 0.834 0 0 0-0.70201-0.462h-5.4307a0.78063 0.834 0 0 0-0.69639 0.462 0.83679 0.894 0 0 0 0.04493 0.882l2.7182 4.29a0.8031 0.858 0 0 0 0.65708 0.366 0.79187 0.846 0 0 0 0.64023-0.366z" color="#000000" fill="#fff" style="-inkscape-stroke:none"/>
+ <path d="m12.122 15.885c0.20797-0.44584 0.65231-0.74845 1.1484-0.75h5.4316c0.49721-0.0015 0.94237 0.30203 1.1523 0.74805 0.20871 0.43621 0.18377 0.94756-0.07031 1.3594l-2e-3 2e-3 -2.7246 4.2949h-2e-3c-0.23053 0.35765-0.62403 0.58878-1.0526 0.59566h-0.0078c-0.43533-5.01e-4 -0.83724-0.23008-1.0742-0.5918l-0.0039-0.0039-2.7227-4.2969-2e-3 -0.0059c-0.24714-0.41098-0.27296-0.91704-0.07029-1.3515zm0.90625 0.42383c-0.06034 0.12936-0.05204 0.29309 0.01953 0.41211l2.709 4.2734c0.06224 0.095 0.14757 0.13723 0.23438 0.13867 0.08172-0.0026 0.16362-0.04296 0.22266-0.13281v-2e-3c3.81e-4 -5.83e-4 0.0016 5.88e-4 2e-3 0l2.7188-4.2852c0.06923-0.11502 0.07929-0.27595 0.01953-0.40039l-4e-3 -4e-3c-0.05573-0.11945-0.15104-0.17412-0.24604-0.17369h-5.4316c-0.09433 2.95e-4 -0.18875 0.05508-0.24414 0.17383z" color="#000000" fill="#000003" style="-inkscape-stroke:none"/>
+ <path d="m15.487 9.5v7.6348c0 0.277 0.223 0.5 0.5 0.5s0.5-0.223 0.5-0.5v-7.6348c0-0.277-0.223-0.5-0.5-0.5s-0.5 0.223-0.5 0.5z" color="#000000" fill="#fffffd" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="-inkscape-stroke:none;paint-order:stroke markers fill"/>
+</svg>
